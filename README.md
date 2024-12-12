@@ -1,13 +1,6 @@
-### Projects:
+Привет! С вами Максим, начинающий Python-разработчик
+------------------------------
 
-[Minesweeper](https://rolling-scopes-school.github.io/pestrukha-JSFE2023Q1/minesweeper/)
+Мои первые Python-скрипты помогли мне в работе с текстами как выпускающему редактору сайта diletant.media. Теперь я пишу веб-приложения и натаскиваю себя на вакансии в коммерческой разработке.  
 
-[CSS Bayan](https://pestrukha.github.io/cssBayan/cssBayan/)
-
-[Shelter](https://pestrukha.github.io/shelter-dom/) 
-
-### Contacts:
-
-[Telegram](https://t.me/pestrukha)
-
-[Discord](https://discordapp.com/users/1032354551208083456)
+* 🎓 Окончил программу «Python-разработчик» онлайн-школы программирования «Хекслет» | [сертификат](https://raw.githubusercontent.com/pestrukha/pestrukha/refs/heads/main/hexlet.png?token=GHSAT0AAAAAACZ2ZL2JWKSLPRWNNZPEBJY6Z222IRQ) | [профиль на сайте](https://ru.hexlet.io/u/pestrukha) 
